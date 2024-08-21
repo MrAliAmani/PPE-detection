@@ -1,0 +1,18 @@
+names:
+- 'Protective Helmet'
+- 'Shield'
+- 'Jacket'
+- 'Dust Mask'
+- 'Eye Wear'
+- 'Glove'
+- 'Protective Boots'
+nc: 7
+roboflow:
+  license: Public Domain
+  project: eep_detection-u9bbd
+  url: https://universe.roboflow.com/objet-detect-yolov5/eep_detection-u9bbd/dataset/1
+  version: 1
+  workspace: objet-detect-yolov5
+test: test/images
+train: train/images
+val: valid/images
